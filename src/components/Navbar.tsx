@@ -9,7 +9,7 @@ function Navbar({ setOpenCart }: any) {
             <div className='container'>
                 <div className='flex items-center justify-between'>
                     <h1 className='text-4xl font-bold cursor-pointer'>
-                        ShoppingOpen
+                        SmartTechnology
                     </h1>
                     <div className='flex gap-4 md:gap-8 items-center px-5'>
                         <div className='md:flex items-center gap-3 hidden'>
